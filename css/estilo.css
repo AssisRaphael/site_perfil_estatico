@@ -87,6 +87,7 @@ li{
 
 #resumoSite {
     font: 100;
+    color: #f7f7f7;
 }
 
 .hidden{
@@ -250,7 +251,8 @@ textarea{
 .main-content{
     width: 65%;
     margin-left: 35%;
-    padding: 124px 54px 72px;
+    padding: 50px 54px 72px;
+    margin-top: 0px;
     box-sizing: border-box;
 }
 
