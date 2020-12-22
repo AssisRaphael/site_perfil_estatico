@@ -85,6 +85,10 @@ li{
     padding-left: .5em;
 }
 
+#resumoSite {
+    font: 100;
+}
+
 .hidden{
     width: 0;
     height: 0;
